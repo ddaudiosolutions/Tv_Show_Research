@@ -1,0 +1,25 @@
+#rotulo{
+    text-align: center;
+    color: darkorange;
+    margin-bottom: 20px;
+    background-color: lightgray;
+}
+.scroll {
+   
+  max-height: 100px;
+  overflow-y: auto;
+   
+  
+}
+
+.titulo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.row {
+    margin-left: 10px;
+}
+
+
+
