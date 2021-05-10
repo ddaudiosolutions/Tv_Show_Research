@@ -16,7 +16,7 @@ let episodios = document.querySelector('#episodiosT')
 const webOficial = document.querySelector('#weboficial')
 const votos = document.querySelector('#rating')
 
-const urlShow = 'http://api.tvmaze.com/shows/'+ idShowGet
+const urlShow = 'https://api.tvmaze.com/shows/'+ idShowGet
         //console.log(urlShow)
    
      const datosShow = axios.get(urlShow)
